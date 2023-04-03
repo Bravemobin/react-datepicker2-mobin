@@ -1,13 +1,13 @@
 {
-  "name": "react-datepicker2",
-  "version": "v3.3.13",
+  "name": "react-datepicker2-mobin",
+  "version": "3.3.13",
   "description": "react datepicker component. (include persian jalaali calendar)",
   "main": "dist/umd/index.js",
   "types": "dist/types/index.d.ts",
   "module": "dist/umd/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mberneti/react-datepicker2"
+    "url": "git+https://github.com/mberneti/react-datepicker2.git"
   },
   "keywords": [
     "react",
@@ -21,7 +21,7 @@
     "react component",
     "react-component"
   ],
-  "author": "mohammadreza berneti (mberneti)",
+  "author": "mobin firooz",
   "license": "MIT",
   "scripts": {
     "cypress": "cypress open",
@@ -105,9 +105,9 @@
     "postcss-cli": "^6.1.2",
     "postcss-loader": "^3.0.0",
     "prettier": "^1.18.2",
-    "react": "^16.8.4",
+    "react": "*",
     "react-addons-test-utils": "^15.4.2",
-    "react-dom": "^16.8.4",
+    "react-dom": "*",
     "react-parallax": "^2.2.0",
     "react-sticky": "^6.0.3",
     "react-switch": "^4.1.0",
@@ -137,5 +137,13 @@
   },
   "browserslist": [
     "last 2 versions"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/mberneti/react-datepicker2/issues"
+  },
+  "homepage": "https://github.com/mberneti/react-datepicker2#readme",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  }
 }
