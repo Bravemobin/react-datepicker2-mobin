@@ -105,7 +105,7 @@
     "postcss-cli": "^6.1.2",
     "postcss-loader": "^3.0.0",
     "prettier": "^1.18.2",
-    "react": "*",
+    "react": "^16.8.4",
     "react-addons-test-utils": "^15.4.2",
     "react-dom": "*",
     "react-parallax": "^2.2.0",
@@ -132,8 +132,8 @@
     "webpack-node-externals": "^1.7.2"
   },
   "peerDependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react": "*",
+    "react-dom": "*"
   },
   "browserslist": [
     "last 2 versions"
