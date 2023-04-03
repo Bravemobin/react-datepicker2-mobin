@@ -1,5 +1,5 @@
 {
-  "name": "react-datepicker2-mobin",
+  "name": "react-datepicker-mobin",
   "version": "3.3.14",
   "description": "react datepicker component. (include persian jalaali calendar)",
   "main": "dist/umd/index.js",
